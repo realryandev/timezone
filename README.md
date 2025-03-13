@@ -14,7 +14,7 @@ The **Timezone Dashboard** ensures you always see the correct local time, even i
 
 ## 🌟 Preview
 
-🎥 See the [Timezone Dashboard]() in action:
+🎥 See the [Timezone Dashboard](https://timezone-dashboard.vercel.app/) in action:
 
 ## 🤝 Contributing
 
@@ -36,6 +36,6 @@ This project is licensed under the MIT License. 📝
 
 ## 📬 Contact
 
-📧 Have questions? Reach out at your-email@example.com or open an issue!
+📧 Have questions? Reach out at officialrtskhosana@gmail.com or open an issue!
 
 **⭐ If you like this project, give it a star! ⭐**
